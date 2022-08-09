@@ -156,6 +156,11 @@ button {
         bottom: 20px;
     }
 
+    .streched {
+        height: 280px;
+        flex: none;
+    }
+
     .streched .price {
         font-size: 23px;
     }
@@ -174,6 +179,11 @@ button {
     .par {
         top: 60px;
     }
+
+    .streched {
+        height: 250px;
+    }
+
     .streched h4 {
         font-size: 28px;
     }
