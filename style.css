@@ -148,6 +148,11 @@ button {
         top: -7px;
     }
 
+    .item {
+        flex: none;
+        height: 50px;
+    }
+
     .par {
         top: 80px;
     }
