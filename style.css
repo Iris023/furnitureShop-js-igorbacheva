@@ -115,6 +115,7 @@ h3 {
 
 label {
     margin: 10px;
+    font-size: 20px;
 }
 
 input, textarea {
@@ -141,7 +142,6 @@ button {
 @media all and (max-width: 800px) {
     .container {
         flex-direction: column;
-        height: 100vh;
     }
 
     h4 {
@@ -183,6 +183,10 @@ button {
 
     .par {
         top: 60px;
+    }
+
+    .item {
+        height: 40px;
     }
 
     .streched {
